@@ -6,6 +6,10 @@ I am a Full-Stack Web developer who excels at working in the Back End of web dev
 
 While I am new to being a web developer, I understand a web application's lifecycle. While working in education, I have created multiple different curriculums tailor-made for my students. Developing curricula has led me to work efficiently and effectively on projects. My experience as a musician, my ability to recognize patterns, and my understanding of how to practice and hone my craft have helped me develop quickly.
 
+## Contact Me
+email: cecrouch01@gmail.com
+linkedin: https://www.linkedin.com/in/caleb-e-crouch/
+
 ## Technology stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
