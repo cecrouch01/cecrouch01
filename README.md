@@ -1,4 +1,5 @@
-This is where the banner will go.
+![MasterHead](https://github.com/cecrouch01/cecrouch01/blob/main/header.png)
+
 ![cecrouch01-view-counter](https://komarev.com/ghpvc/?username=cecrouch01)
 
 Summary goes here
