@@ -2,7 +2,9 @@
 
 ![cecrouch01-view-counter](https://komarev.com/ghpvc/?username=cecrouch01)
 
-Summary goes here
+I am a Full-Stack Web developer who excels at working in the Back End of web development. I enjoy using JavaScript, Express.js, and working with Databases. I am currently in a Coding BootCamp (I started in May). While I am new to the craft, my knowledge has grown exponentially, and I am working tirelessly to become the best programmer I can be.
+
+While I am new to being a web developer, I understand a web application's lifecycle. While working in education, I have created multiple different curriculums tailor-made for my students. Developing curricula has led me to work efficiently and effectively on projects. My experience as a musician, my ability to recognize patterns, and my understanding of how to practice and hone my craft have helped me develop quickly.
 
 ## Technology stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +30,9 @@ Summary goes here
 ## My GitHub Stats
 
 
-[![cecrouch01's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecrouch01&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cecrouch01&theme=great-gatsby)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecrouch01&layout=donut-vertical&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![cecrouch01's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecrouch01&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cecrouch01&theme=vue)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecrouch01&layout=donut-vertical&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
