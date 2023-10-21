@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecrouch01&show_icons=true&theme=merko)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecrouch01&show_icons=true&theme=great-gatsby)]
 
 <!--
 **cecrouch01/cecrouch01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
