@@ -38,4 +38,4 @@ LinkedIn: https://www.linkedin.com/in/caleb-e-crouch/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecrouch01&layout=donut-vertical&theme=vue)
 
-![Codewars](https://github.r2v.ch/codewars?user=cecrouch01&theme=light)
+![Codewars](https://github.r2v.ch/codewars?user=cecrouch01&theme=light&hide_clan=true)
