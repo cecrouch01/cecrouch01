@@ -34,8 +34,8 @@ LinkedIn: https://www.linkedin.com/in/caleb-e-crouch/
 
 ## My GitHub Stats
 
-
 ![cecrouch01's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecrouch01&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecrouch01&layout=donut-vertical&theme=vue)
 
+![Codewars](https://github.r2v.ch/codewars?user=cecrouch01&theme=light)
