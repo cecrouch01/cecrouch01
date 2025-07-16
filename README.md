@@ -2,7 +2,7 @@
 
 ![cecrouch01-view-counter](https://komarev.com/ghpvc/?username=cecrouch01)
 
-I am a Full-Stack Web developer who excels at working in the Back End of web development. I enjoy using JavaScript, Express.js, and working with Databases. I am currently in a Coding BootCamp (I started in May). While I am new to the craft, my knowledge has grown exponentially, and I am working tirelessly to become the best programmer I can be.
+I am a Full-Stack Web developer who excels at working in the Back End of web development. I enjoy using JavaScript, COBOL, JCL Express.js, working with Databases. I am currently in a Coding BootCamp (I started in May). While I am new to the craft, my knowledge has grown exponentially, and I am working tirelessly to become the best programmer I can be.
 
 While I am new to being a web developer, I understand a web application's lifecycle. While working in education, I have created multiple different curriculums tailor-made for my students. Developing curricula has led me to work efficiently and effectively on projects. My experience as a musician, my ability to recognize patterns, and my understanding of how to practice and hone my craft have helped me develop quickly.
 
@@ -30,6 +30,7 @@ LinkedIn: https://www.linkedin.com/in/caleb-e-crouch/
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-%23323330.svg?style=for-the-badge&logo=COBOL&logoColor=%23F7DF1E)
 
 
 ## My GitHub Stats
